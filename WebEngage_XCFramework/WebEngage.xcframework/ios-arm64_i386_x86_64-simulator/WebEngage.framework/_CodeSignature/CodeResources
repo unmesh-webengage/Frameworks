@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/WEGAppDelegate.h</key>
 		<data>
-		4uNrCnkEeF7SZPu51p4sF+Mx+1A=
+		nL/rSLN2qUyQfw+UKUsqcW8oze0=
 		</data>
 		<key>Headers/WEGDeeplinkManager.h</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Headers/WebEngage.h</key>
 		<data>
-		02u8qse/44VdPHfIYTFy0xZ0+iE=
+		7/79KQb3O3ZK4JtB8GKJYHYzJZw=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		l/BH2gS4AIW4k5rDGlIAhciOqas=
+		EU4PdH4+DV6OYkJDGaCbYLxHF7s=
 		</data>
 		<key>Modules/WebEngage.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -138,11 +138,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4uNrCnkEeF7SZPu51p4sF+Mx+1A=
+			nL/rSLN2qUyQfw+UKUsqcW8oze0=
 			</data>
 			<key>hash2</key>
 			<data>
-			I/rT5dLFC1nMqPCoKxgu8AqFH9oZWFpzejAiK2cDGtg=
+			FC4yRWLobbGAt5DE0Nwmnopda6J2jW00VehnbOKBDcU=
 			</data>
 		</dict>
 		<key>Headers/WEGDeeplinkManager.h</key>
@@ -215,11 +215,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			02u8qse/44VdPHfIYTFy0xZ0+iE=
+			7/79KQb3O3ZK4JtB8GKJYHYzJZw=
 			</data>
 			<key>hash2</key>
 			<data>
-			0/IOqGEv3KajyjvWMjOox97QffnIGREVxnEm7dlOIIk=
+			jJ9VO5pRlpqA80pyPEuFpyuUjRCKo3R2rAkFLOxXxNc=
 			</data>
 		</dict>
 		<key>Modules/WebEngage.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
